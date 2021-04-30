@@ -6,11 +6,11 @@
 /******************************************************************************/
 /*****************************      About       ********************************
  * SdExplore is a light-weight companion library to easily scan for specific files
- * on an sdcard attached to your project - The aim is to perform memory heavy 
+ * on an sd card attached to your project - The aim is to perform memory heavy 
  * operations in the smallest memory consumption - Those are handy for creating 
  * menus, navigating the sd card and searching for specific files or file type 
  * on the sd card.
- * All of the SdFat methods are accesible from the SD static instance  - SIKtec::SD
+ * All of the SdFat methods are accessible from the SD static instance  - SIKtec::SD
 *******************************************************************************/
 /*****************************      Changelog       ****************************
 version:
