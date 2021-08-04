@@ -1,6 +1,6 @@
 /******************************************************************************/
 // Created by: Shlomo Hassid.
-// Release Version : 1.0.2
+// Release Version : 1.0.3
 // Creation Date: 2021-04-27
 // Copyright 2021, SIKTEC.
 /******************************************************************************/
@@ -14,6 +14,8 @@
 *******************************************************************************/
 /*****************************      Changelog       ****************************
 version:
+    1.0.3
+        -> required sdfat is adafruit fork now since it has better config.
     1.0.2
         -> prepare for arduino library 
         -> added macros to remove serial.
