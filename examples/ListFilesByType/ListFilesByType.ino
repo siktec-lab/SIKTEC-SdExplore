@@ -9,7 +9,7 @@ version:
     1.0.3
         -> required sdfat is adafruit fork now since it has better config.
     1.0.2
-        -> version bump -> no edits in the example
+        -> version bump -> no edits in the example 
         -> listRootDirectory now takes serial as a pointer changed in this example.
     1.0.1
         -> initial release.
